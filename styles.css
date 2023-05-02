@@ -168,6 +168,7 @@ hr {
   place-items: center;
 }
 
+.dress,
 .image-1,
 .image-2 {
   grid-column: 1 / -1;
