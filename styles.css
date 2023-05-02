@@ -11,9 +11,9 @@ html {
 }
 
 body {
-  background-color: black;
   font-family: 'Baskervville', serif;
   color: linen;
+  background-color: rgb(20, 30, 40);
 }
 
 h1 {
@@ -76,13 +76,13 @@ hr {
 }
 
 .wed-subtitle {
-  font-size: 2.4rem;
+  font-size: 2.1rem;
   color: orangered;
   text-align: center;
 }
 
 .author {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-family: "Raleway", sans-serif;
 }
 
@@ -172,11 +172,11 @@ hr {
 }
 
 @media only screen and (max-width: 550px) {
-  .hero-title {
+  .wed-title {
     font-size: 6rem;
   }
 
-  .hero-subtitle,
+  .wed-subtitle,
   .author,
   .quote,
   .list-title {
@@ -193,7 +193,7 @@ hr {
 }
 
 @media only screen and (max-width:420px) {
-  .hero-title {
+  .wed-title {
     font-size: 4.5rem
   }
 }
