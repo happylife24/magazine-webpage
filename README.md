@@ -7,8 +7,8 @@ Link:
 Languages and tools:
 <br>
    <ul>
-     <li>CSS</li>
      <li>HTML</li>
+     <li>CSS</li>
      <li>used CSS Grid, Google Font API for fonts, and FontAwesome for icons.</li>
   </ul>
  <br>
