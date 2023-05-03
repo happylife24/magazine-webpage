@@ -9,7 +9,7 @@ Languages and tools:
    <ul>
      <li>CSS</li>
      <li>HTML</li>
-     <li>Google Font API for font files</li>
+     <li>used CSS Grid, Google Font API for fonts, and FontAwesome for icons.</li>
   </ul>
  <br>
  <br>
