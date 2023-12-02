@@ -1,6 +1,5 @@
 # MAGAZINE WEBPAGE
-Link: 
-<a href="https://2021sky.github.io/magazine-webpage/"> https://2021sky.github.io/magazine-webpage/ </a>
+Link: https://happylife24.github.io/magazine-webpage/
 <br>
 <br>
 <br>
